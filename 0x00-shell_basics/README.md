@@ -1,2 +1,2 @@
 #!/bin/bash
-a script that changes the working directory to the previous one.
+script that lists all files in long format.
