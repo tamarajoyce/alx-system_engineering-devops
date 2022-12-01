@@ -1,2 +1,2 @@
 #!/bin/bash
-Move the file betty from /tmp/ to /tmp/my_first_directory.
+Create a script that deletes all files in the current working directory that end with the character ~
