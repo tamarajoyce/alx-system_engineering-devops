@@ -1,2 +1,2 @@
 #!/bin/bash
-Create a symbolic link to /bin/ls, named __ls__.
+Move the file betty from /tmp/ to /tmp/my_first_directory.
