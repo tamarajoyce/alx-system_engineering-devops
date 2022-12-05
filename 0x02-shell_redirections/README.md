@@ -1,1 +1,1 @@
-Write a script that displays the third line of the file iacta.
+Display lines containing the pattern “root” from the file /etc/passwd
